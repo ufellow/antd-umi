@@ -1,0 +1,27 @@
+.login_form_container {
+    background: linear-gradient(grey, blue);
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+/* .login_form {
+    margin: 0 auto;
+} */
+
+.login_form {
+    max-width: 300px;
+    padding: 2rem;
+    background: white;
+    display: block;
+    top: 50%;
+    right: 50%;
+}
+
+.login_form_button {
+    width: 100%;
+}
+
+.login_form_forgot {
+    float: right;
+}
